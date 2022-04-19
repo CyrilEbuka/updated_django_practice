@@ -1,0 +1,1 @@
+# updated_django_practice
